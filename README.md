@@ -11,3 +11,10 @@ Prerequisites
 
 ## Development
 `python3 carsharing.py`
+
+
+## Framework and Tools
+- FastAPI
+- Pydantic
+- SQLModel
+- 
